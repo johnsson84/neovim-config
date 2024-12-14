@@ -1,0 +1,8 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "7e6c863bc7563efbdd757a310d17ebc95166cef3" },
+  "neo-tree.nvim": { "branch": "v3.x", "commit": "a77af2e764c5ed4038d27d1c463fa49cd4794e07" },
+  "nui.nvim": { "branch": "main", "commit": "53e907ffe5eedebdca1cd503b00aa8692068ca46" },
+  "nvim-web-devicons": { "branch": "master", "commit": "8a8e0668b8ad6124813a44a626afdf850dd24874" },
+  "nvim-window-picker": { "branch": "main", "commit": "41cfaa428577c53552200a404ae9b3a0b5719706" },
+  "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" }
+}
