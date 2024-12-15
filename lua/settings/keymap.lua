@@ -1,7 +1,7 @@
 -- Option variable
 local options = { noremap = true, silent = true }
 
-option = function(description)
+local option = function(description)
 	return { noremap = true, silent = true, desc = description }
 end
 

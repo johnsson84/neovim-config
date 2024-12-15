@@ -40,6 +40,8 @@ require("lazy").setup({
 	{
 		-- THEMES
 		require("themes.tokyonight"),
+		--require("themes.everforest"),
+		--require("themes.rose-pine"),
 	},
 })
 
