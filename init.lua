@@ -22,6 +22,7 @@ require("lazy").setup({
 		require("plugins.wich-key"),
 		require("plugins.lazydev"),
 		require("plugins.luvit"),
+		require("plugins.nvim-java"),
 		require("plugins.lsp"),
 		require("plugins.conform"),
 		require("plugins.nvim-cmp"),
